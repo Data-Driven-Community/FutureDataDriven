@@ -1,7 +1,3 @@
-Here’s an improved version of the README with your clarifications and additional details:
-
----
-
 # Data Driven Summit – Promo Materials
 
 Welcome to the official **Data Driven Summit Promo Materials** repository! 🎉  
